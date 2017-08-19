@@ -12,9 +12,11 @@ package com.mycompany.aula2;
 public class Principal {
 
     public static void main(String[] args) {
+        System.out.println("INICIANDO PROGRAMA");
         for (int i = 0; i < 10; i++) {
 
             System.out.println("Hello World git maven");
         }
+        
     }
 }
