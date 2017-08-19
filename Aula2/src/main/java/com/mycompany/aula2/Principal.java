@@ -10,8 +10,11 @@ package com.mycompany.aula2;
  * @author felipe.frsantana
  */
 public class Principal {
+
     public static void main(String[] args) {
-        System.out.println("Hello World git maven");
+        for (int i = 0; i < 10; i++) {
+
+            System.out.println("Hello World git maven");
+        }
     }
-    
 }
